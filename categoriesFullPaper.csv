@@ -1,0 +1,68 @@
+ID,Category,Keyword
+0,M,ai
+1,M,algorithm
+2,M,algorithmic
+3,M,algorithmically
+4,M,algorithms
+5,HM,analytics
+6,M,artificial intelligence
+7,M,automated
+8,M,big data
+9,H,bioinformatics
+10,H,biomedical
+11,H,clinical
+12,H,clinically
+13,H,clinician
+14,H,clinicians
+15,V,dashboard
+16,M,data mining
+17,HM,decision support
+18,M,deep learning
+19,H,electronic health record
+20,H,electronic health records
+21,I,exploration
+22,I,explorative
+23,I,exploratory
+24,I,explore
+25,I,explored
+26,I,explorer
+27,I,exploring
+28,V,graphic
+29,V,graphical
+30,V,graphics
+31,H,health
+32,H,healthcare
+33,H,healthy
+34,I,interact
+35,I,interacting
+36,I,interaction
+37,I,interactions
+38,I,interactive
+39,I,interactively
+40,I,interactivity
+41,V,interface
+42,M,machine learning
+43,H,medical
+44,H,medications
+45,H,medicine
+46,H,medicines
+47,M,predict
+48,M,predicted
+49,M,predicting
+50,M,prediction
+51,M,predictions
+52,M,predictive
+53,M,predictor
+54,V,visual
+55,V,visualisation
+56,V,visualisations
+57,V,visualise
+58,V,visualises
+59,V,visualising
+60,V,visualization
+61,V,visualizations
+62,V,visualize
+63,V,visualized
+64,V,visualizes
+65,V,visualizing
+66,V,visually

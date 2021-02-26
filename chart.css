@@ -1,0 +1,19 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 1000px 1fr;
+    grid-template-rows: 1000px 1fr;
+    grid-template-areas: ". web-chart ."
+                         ". bar-chart .";
+    justify-items: center;
+    align-items: center;
+    margin: 3rem 0;
+    width: 100%;
+}
+
+.web-chart {
+    grid-area: web-chart;
+}
+
+.bar-chart {
+    grid-area: bar-chart;
+}

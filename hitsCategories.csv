@@ -1,0 +1,82 @@
+ID,Category,Hits
+0,H,aeromedical
+1,M,ai
+2,M,algorithm
+3,M,algorithmic
+4,M,algorithmically
+5,M,algorithms
+6,HM,analytics
+7,M,artificial intelligence
+8,M,automated
+9,M,big data
+10,H,bioinformatics
+11,H,biomedical
+12,H,biomedicine
+13,H,clinic
+14,H,clinical
+15,H,clinically
+16,H,clinician
+17,H,clinicians
+18,H,clinics
+19,V,dashboard
+20,M,data mining
+21,HM,decision support
+22,M,deep learning
+23,H,electronic health record
+24,H,electronic health records
+25,I,explora
+26,I,exploration
+27,I,explorative
+28,I,exploratory
+29,I,explore
+30,I,explored
+31,I,explorer
+32,I,explores
+33,I,exploring
+34,V,graphic
+35,V,graphical
+36,V,graphically
+37,V,graphics
+38,H,health
+39,H,healthcare
+40,H,healthinfonet
+41,H,healthy
+42,I,interact
+43,I,interacting
+44,I,interaction
+45,I,interactions
+46,I,interactive
+47,I,interactively
+48,I,interactivity
+49,V,interface
+50,M,machine learning
+51,H,medical
+52,H,medically
+53,H,medication
+54,H,medications
+55,H,medicine
+56,H,medicines
+57,M,predict
+58,M,predictability
+59,M,predicted
+60,M,predicting
+61,M,prediction
+62,M,predictions
+63,M,predictive
+64,M,predictor
+65,M,predictors
+66,M,predicts
+67,H,telemedicine
+68,V,visual
+69,V,visualisation
+70,V,visualisations
+71,V,visualise
+72,V,visualises
+73,V,visualising
+74,V,visualization
+75,V,visualizations
+76,V,visualize
+77,V,visualized
+78,V,visualizes
+79,V,visualizing
+80,V,visually
