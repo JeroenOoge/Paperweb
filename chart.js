@@ -69,13 +69,13 @@ d3.csv("categoriesFullPaper.csv").then(function(categories){
       .map(d => d.toString())
       .reduce((acc, e) => acc.set(e, (acc.get(e) || 0) + 1), new Map());
     let filteredPairset = [...new Map(pairset.map(item => [item.toString(), item])).values()]
-      .filter(d => pairCounts.get(d.toString()) > 20);
+      .filter(d => pairCounts.get(d.toString()) > 10);
     let linkData = filteredPairset.map(([x,y]) => [map.get(x), map.get(y)]);
 
     let counts = filteredPairset.map(p => pairCounts.get(p.toString()));
     let widthScale = d3.scaleLinear()
       .domain([d3.min(counts), d3.max(counts)])
-      .range([0.1, 1]);
+      .range([0.01, 1]);
     
     const link = svgWebChart.append("g")
         .attr("stroke", colourLink)
